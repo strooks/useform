@@ -1,0 +1,10 @@
+{
+  "name": "useform",
+  "version": "1.0.0",
+  "description": "useform hook for react",
+  "main": "lib/index.js",
+  "repository": "https://github.com/strooks/useform",
+  "author": "andre.padez@gmail.com",
+  "license": "MIT",
+  "private": false
+}
